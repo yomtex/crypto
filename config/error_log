@@ -1,0 +1,62 @@
+[05-Jan-2023 03:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 03:58:25 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 03:58:58 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 03:59:33 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:00:46 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:01:10 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:01:14 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:03:18 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:03:24 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:03:33 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:06:22 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:06:35 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:06:58 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/natingnj/coincrapstore.com/config/history.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 3
+[05-Jan-2023 04:11:28 America/New_York] PHP Warning:  include_once(indx.php): failed to open stream: No such file or directory in /home/natingnj/coincrapstore.com/config/history.php on line 4
+[05-Jan-2023 04:11:28 America/New_York] PHP Warning:  include_once(): Failed opening 'indx.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/natingnj/coincrapstore.com/config/history.php on line 4
+[05-Jan-2023 04:11:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Btc' not found in /home/natingnj/coincrapstore.com/config/history.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/natingnj/coincrapstore.com/config/history.php on line 5
